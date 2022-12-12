@@ -14,15 +14,15 @@ To begin, click on "Play" button and the timer will start. Bottles will appear a
 
 ## Start Screen
 
-![alt text](https://github.com/morningfirefly/SEAorNOT_game/blob/9d3f509b8508d264b876e043582670be87de3ba1/SS1.png)
+![alt text](https://github.com/morningfirefly/SEAorNOT/blob/eda72bc7f975c21f522e12509f15ebe6b4d1e407/SS1.png)
 
 ## In Game Screen
 
-![alt text](https://github.com/morningfirefly/SEAorNOT_game/blob/9d3f509b8508d264b876e043582670be87de3ba1/SS2.png)
+![alt text](https://github.com/morningfirefly/SEAorNOT/blob/eda72bc7f975c21f522e12509f15ebe6b4d1e407/SS2.png)
 
 ## End Game Screen
 
-![alt text](https://github.com/morningfirefly/SEAorNOT_game/blob/9d3f509b8508d264b876e043582670be87de3ba1/SS3.png)
+![alt text](https://github.com/morningfirefly/SEAorNOT/blob/eda72bc7f975c21f522e12509f15ebe6b4d1e407/SS3.png)
 
 
 ### Motivations
