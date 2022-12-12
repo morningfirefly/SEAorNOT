@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+p {
+    font-style: helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FF5B1F;
+}
+
+body {
+    margin: 0;
+    height: 665px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(https://i.imgur.com/0psV2xq.png);
+    background-size: auto;
+}
+
+.board {
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cell {
+    width: 150px;
+    height: 150px;
+    border: 0px solid transparent;
+    overflow: hidden;
+}
+
+.mole {
+    width: 150px;
+    height: 150px;
+    background-image: url(https://i.imgur.com/jY2igDP.png);
+    background-size: contain;
+    animation: appear 1s;
+}
+
+@keyframes appear {
+    0% {
+        transform: translateY(130px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
